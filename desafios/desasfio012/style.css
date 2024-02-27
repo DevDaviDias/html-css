@@ -83,13 +83,13 @@ section.imagem > p{
 }
 
 section#imagem01{
-    background-image: url('../desasfio012/imagens/OIG2.jpg') ;
+    background-image: url(./imagens/sim.jpg) ;
     background-position: right center;
    
 }
 
 section#imagem02{
-    background-image: url('../desasfio012/imagens/OIG4.jpg'); 
+    background-image: url(imagens/nao.jpg); 
 
 }
 footer{
